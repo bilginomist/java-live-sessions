@@ -4,7 +4,7 @@ public class J02_AndOperator {
 
     public static void main(String[] args) {
 
-        boolean isGreaterThan18=false;  //18 den büyük mü
+        boolean isGreaterThan18=true;  //18 den büyük mü
         boolean isMale=false;           //erkek mi
 
                       //18 den büyük   ve erkek  ===> askerlik yapabilir true

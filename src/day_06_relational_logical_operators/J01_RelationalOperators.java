@@ -16,7 +16,7 @@ public class J01_RelationalOperators {
 
         System.out.println(x==0); //true
 
-        System.out.println(x!=0); //true
+        System.out.println(x!=0); //false
 
 
         System.out.println("A"=="a");

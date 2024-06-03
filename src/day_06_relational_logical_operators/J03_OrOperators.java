@@ -4,17 +4,19 @@ public class J03_OrOperators {
 
 
     public static void main(String[] args) {
+
         System.out.println(false | false);
         System.out.println(false | true);
         System.out.println(true | false);
         System.out.println(true | true);
 
-        System.out.println(true | false |false|false);
+        System.out.println(true | false | false | false);
 
         System.out.println(false | false | false |false |true);
 
 
         System.out.println(true || false || false );
+        System.out.println(false || true || false );
 
 
 
@@ -32,7 +34,7 @@ public class J03_OrOperators {
 
        ÇİFT OR da ilk hareket doğru ise yani true ise gerisine bakılmaz true olur
 
-         */
+*/
 
 
     }
