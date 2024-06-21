@@ -6,7 +6,7 @@ public class J01_MethodsIntro {
     public static void main(String[] args) {
         eat();
         walk();
-        hear();
+      //  hear();
     }
 
 
