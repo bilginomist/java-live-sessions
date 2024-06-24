@@ -1,0 +1,3 @@
+Bir method yazacaksınız (createFullName)
+J03_FullName class adı
+createFullName("First Name", "Last Name") --> FirstName LastName
