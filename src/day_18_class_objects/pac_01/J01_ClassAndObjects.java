@@ -7,7 +7,8 @@ public class J01_ClassAndObjects {
 
         String firstName = "Sami";
         String lastName = "Mutlu";
-        int age = 20;
+        //data tipi  data adı   value
+        int          age =      20;
         char gender = 'M';
         //referans
         Student sami = new Student();
@@ -20,8 +21,8 @@ public class J01_ClassAndObjects {
         System.out.println(sami);
 
         sami.study();
-
-        Student arif = new Student();
+ //Reference Type  reference   object
+        Student   arif =       new Student();
         arif.firstName = "Arif";
         arif.lastName = "Gün";
         arif.age = 18;
