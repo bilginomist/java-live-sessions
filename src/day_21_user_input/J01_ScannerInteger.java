@@ -3,6 +3,7 @@ package day_21_user_input;
 
 import java.util.Scanner;
 
+
 public class J01_ScannerInteger {
 
 
