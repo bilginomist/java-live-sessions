@@ -36,6 +36,7 @@ public class J02_ReverseWord {
 
         StringBuilder stringBuilder=new StringBuilder(word);
 
+
       return   stringBuilder.reverse().toString(); //madA
 
 
