@@ -16,7 +16,7 @@ public class J04_ConvertKmToM {
          */
         int km=2;
 
-     int metre=   convertKmToM(km);
+     int metre=   convertKmToM(km );
         System.out.println(metre + " m");
 
 

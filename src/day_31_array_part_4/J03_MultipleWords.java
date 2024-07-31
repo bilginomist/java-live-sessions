@@ -41,7 +41,7 @@ public class J03_MultipleWords {
              */
 
 
-            if (each.split(" ").length>1){
+            if (each.split(" ").length==4){
                 System.out.println(each);
             }
         }
