@@ -1,6 +1,7 @@
 package day_32_array_part_5;
 
 
+
 public class J01_MajorityElement {
 
     public static void main(String[] args) {
