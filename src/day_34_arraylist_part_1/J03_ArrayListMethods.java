@@ -58,10 +58,11 @@ public class J03_ArrayListMethods {
         nums.add(3);
         nums.add(4);
         System.out.println(nums);
-       // nums.remove(3); //4
+        nums.remove(3); //4
 
                        //obje olan  3 ü yok et
-        nums.remove(Integer.valueOf(13));
+        nums.remove(Integer.valueOf(3));
+
 
         System.out.println(nums);
 
