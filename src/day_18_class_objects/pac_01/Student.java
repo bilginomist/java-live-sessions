@@ -8,17 +8,15 @@ public class Student {
     public char gender;
 
 
-    public void study(){
+    public void study() {
 
         System.out.println(firstName + " ders çalışmak zorunda.");
     }
 
-public static String courseName(){
+    public static String courseName() {
 
-       return  "Bilginomist";
-}
-
-
+        return "Bilginomist";
+    }
 
 
     @Override
