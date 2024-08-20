@@ -1,0 +1,8 @@
+Task Encapsulation:
+
+"Password" adında, "password" ve "username" adlı niteliklere sahip kapsüllenmiş bir sınıf oluşturun. Getters ve setters ile birlikte aşağıdaki koşulları ekleyin:
+
+- `username` yalnızca null ise set edilsin.
+- `username` yalnızca ilk üç karakteri doğru ise get ile alınabilir.
+- `password` yalnızca null değilse ve `username` doğru sağlanmışsa set edilebilir.
+- `password` yalnızca `username` doğru ise get edilebilir.
