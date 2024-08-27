@@ -18,7 +18,7 @@ public class StaticOrder {
     }
 
 
-    //statik methodlar yukarıdan aşağıya HER ŞEYDEN ÖNCE çalışır
+    //statik bloklar yukarıdan aşağıya HER ŞEYDEN ÖNCE çalışır
 
 
 
