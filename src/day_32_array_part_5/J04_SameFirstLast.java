@@ -7,7 +7,6 @@ public class J04_SameFirstLast {
         int[] array1={1,2,3};
         int[] array2={7,3};
 
-
       String result= sameFirstLast(array1,array2);
 
         System.out.println("result = " + result);
