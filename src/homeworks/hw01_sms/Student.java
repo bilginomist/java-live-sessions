@@ -2,7 +2,7 @@ package homeworks.hw01_sms;
 
 public class Student {
 
-    int id;
+   public int id;
     String firstName;
     String lastName;
     int age;
