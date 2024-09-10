@@ -13,7 +13,9 @@ public class Test {
 
         Repository<Product> productRepository=new Repository<>();
 
+        Product product=new Product("item 2 ",3.45);
         productRepository.add(new Product("item1 ",3.45));
+        productRepository.add(product);
 
         System.out.println(productRepository.getAll());
 
