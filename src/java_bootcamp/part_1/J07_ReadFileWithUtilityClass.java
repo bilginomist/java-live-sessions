@@ -1,6 +1,6 @@
-package java_bootcamp;
+package java_bootcamp.part_1;
 
-import java_bootcamp.utils.FileUtils;
+import java_bootcamp.part_1.utils.FileUtils;
 
 public class J07_ReadFileWithUtilityClass {
 

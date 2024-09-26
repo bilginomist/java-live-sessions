@@ -1,4 +1,4 @@
-package java_bootcamp.utils;
+package java_bootcamp.part_1.utils;
 
 import java.io.File;
 import java.io.FileNotFoundException;

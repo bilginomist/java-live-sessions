@@ -1,4 +1,4 @@
-package java_bootcamp;
+package java_bootcamp.part_1;
 
 public class J01_PrimitiveTypeCasting {
 
